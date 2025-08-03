@@ -26,3 +26,7 @@ A simple **Pizza Delivery Web Application** built using **React.js** for interns
 2. **Install dependencies**
    ```bash
    npm install
+
+3.**start the development server**
+npm start
+
