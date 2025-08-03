@@ -15,3 +15,7 @@ A simple Pizza Delivery web app built using **React.js** for internship submissi
 
 ## ▶️ How to Run Locally
 1. Open terminal in the project folder:
+2. 2. Install dependencies:
+   ```bash
+   npm install
+3.npm start
