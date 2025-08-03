@@ -30,3 +30,7 @@ A simple **Pizza Delivery Web Application** built using **React.js** for interns
 3.**start the development server**
 npm start
 
+
+![Project Screenshot](screenshot.png)
+
+
